@@ -1,8 +1,12 @@
-# DiscordCrasher
+# Discord Crasher
+
+## Disclaimer
+
+Do not use this maliciously. This is only for educational purposes. By using this script you take responsiblity for any and all consequences that may arise.
 
 ## What is this
 
-A simple script that produces a video from two input videos that you can use to crash your friend's Discords ; )
+A simple script that produces a slightly corrupted video from two input videos that crashes Discord
 
 ## Set Up
 
