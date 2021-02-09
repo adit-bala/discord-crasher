@@ -1,4 +1,4 @@
-# Discord Crasher
+# your-computer-has-virus-automation
 
 ## Disclaimer
 
@@ -6,7 +6,7 @@ Do not use this maliciously. This is only for educational purposes. By using thi
 
 ## What is this
 
-A simple script that produces a slightly corrupted video from two input videos that crashes Discord
+A simple script that produces a slightly corrupted video from two input videos that crashes the current application
 
 ## Set Up
 
