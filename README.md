@@ -1,4 +1,4 @@
-# your-computer-has-virus-automation
+# mp4-crasher
 
 ## Disclaimer
 
