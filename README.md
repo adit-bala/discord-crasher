@@ -24,7 +24,9 @@ sudo apt install ffmpeg
 
 ### Mac
 
-- idk man
+```
+brew install ffmpeg
+```
 
 ## Running Project
 
