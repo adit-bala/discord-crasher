@@ -50,9 +50,3 @@ git clone https://github.com/adit-bala/discord-crasher.git
 ```
 sh crasher.sh -f [firstpart.mp4] -s [secondpart.mp4] -o [name of output file ex. test]
 ```
-
-### Credit
-
-**Credit:** This script is based on [this video](https://www.youtube.com/watch?v=jlavvmSmgO0)
-
-I do not own or come up with any of the ideas presented, but simply automated the actions of the video to create an easier experience for the users
