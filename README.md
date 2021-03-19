@@ -33,7 +33,7 @@ brew install ffmpeg
 - Clone the project
 
 ```
-git clone https://github.com/adit-bala/discord-crasher.git
+git clone https://github.com/adit-bala/mp4-crasher.git
 ```
 
 - Drag your videos into /src (MUST BE MP4)
